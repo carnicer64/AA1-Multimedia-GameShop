@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuProfile"
+        android:title="@string/menuProfile" />
+    <item
+        android:id="@+id/menuMain"
+        android:title="Main menu" />
+    <item
+        android:id="@+id/menuShops"
+        android:title="@string/menuShops" />
+    <item
+        android:id="@+id/menuProducts"
+        android:title="@string/menuProduct" />
+    <item
+        android:id="@+id/menuUsers"
+        android:title="@string/menuUser" />
+    <item
+        android:id="@+id/menuPreferences"
+        android:title="@string/menuPreferences" />
+</menu>

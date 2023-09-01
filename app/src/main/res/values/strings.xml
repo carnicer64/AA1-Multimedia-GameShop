@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">GameShop</string>
+    <string name="loginButton">Login</string>
+    <string name="loginCreate">Create account</string>
+    <string name="loginUsername">Username:</string>
+    <string name="loginPassword">Password:</string>
+    <string name="loginCorrect">Login correct!</string>
+    <string name="register">Register</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="details">Details</string>
+    <string name="regName">Name</string>
+    <string name="regAdress">Address</string>
+    <string name="regEmail">Email</string>
+    <string name="regTlf">Telephone number</string>
+    <string name="regNif">NIF</string>
+    <string name="btBack">Back</string>
+    <string name="wrong">Something went wrong, try it again, champion</string>
+    <string name="userList">User List</string>
+    <string name="regShop">Shop Register</string>
+    <string name="shopList">Shop List</string>
+    <string name="regLat">Latitude</string>
+    <string name="regLong">Longitude</string>
+    <string name="regProduct">Product Register</string>
+    <string name="regCost">Cost price</string>
+    <string name="regSale">Sale price</string>
+    <string name="regCode">Barcode</string>
+    <string name="regImageUrl">Image Url</string>
+    <string name="menuShops">View shops</string>
+    <string name="menuProfile">My Profile</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="productList">Products List</string>
+    <string name="shopDetails">Shop details</string>
+    <string name="btNav">GPS position</string>
+    <string name="btImage">Insert product photo</string>
+    <string name="clientDetails">Client Details</string>
+    <string name="delToast">Are you sure you want to delete this client?</string>
+    <string name="shopMarker">Add Marker</string>
+    <string name="menuProduct">View Products</string>
+    <string name="menuUser">View Users</string>
+    <string name="menuPreferences">Preferences</string>
+    <string name="preferencesLogin">Auto login</string>
+    <string name="preferencesBack">Back to main menu when register object</string>
+    <string name="preferencesRegister">Place automarker with gps</string>
+    <string name="autoLoginCorrect">Autologin Correct!</string>
+    <string name="autoLoginIncorrect">Autologin Incorrect!</string>
+    <string name="userEmty">Username is empty</string>
+    <string name="settingsSaved">Settings saved</string>
+    <string name="settingsERROR">Error saving</string>
+    <string name="regSuccess">Register success</string>
+    <string name="locationNull">The GPS signal can not be founded</string>
+    <string name="photoERROR">ERROR</string>
+    <string name="OK">OK</string>
+    <string name="noOK">No OK</string>
+    <string name="sure">Are you sure?</string>
+    <string name="clientDelete">Delete Client</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="productDelete">Delete Product</string>
+    <string name="shopDelete">Delete Shop</string>
+
+
+
+</resources>
